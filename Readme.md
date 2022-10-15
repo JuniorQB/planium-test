@@ -74,7 +74,7 @@ Os valores estão incluídos nesta documentação:
 Clone o projeto
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone git@github.com:JuniorQB/planium-test.git
 ```
 
 Entre no diretório do projeto
