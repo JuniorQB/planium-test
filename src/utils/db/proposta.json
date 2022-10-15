@@ -1,0 +1,24 @@
+{
+  "Proposta": [
+    {
+      "beneficiariesData": {
+        "quantity": 2,
+        "beneficiaryData": [
+          {
+            "name": "Fulano de tal",
+            "age": 29,
+            "price": 30
+          },
+          {
+            "name": "José Barbosa",
+            "age": 36,
+            "price": 30
+          }
+        ],
+        "plan": "reg2",
+        "id": "c3004887-b64d-475c-b4df-31312d946dba"
+      },
+      "totalSum": 60
+    }
+  ]
+}
